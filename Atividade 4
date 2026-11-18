@@ -1,0 +1,1 @@
+SELECT alunos.nome, cursos.curso FROM alunos CROSS JOIN cursos;
